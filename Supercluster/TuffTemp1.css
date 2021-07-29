@@ -30,6 +30,7 @@
   background-image: linear-gradient(45deg, #B19CD8, #E6D1F2);
   line-height: 10px;
   padding: 9px;
+  margin: 5px;
   float: left;
   border-radius: 5px;
 }
